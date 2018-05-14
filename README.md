@@ -1,0 +1,2 @@
+# byuba
+safe link
